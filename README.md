@@ -8,3 +8,5 @@ Task:
 Solution result:
 
 ![hm9aorUlsBs](https://user-images.githubusercontent.com/34367447/78587935-6c67b080-7846-11ea-8e99-03993c8028a5.jpg)
+
+Written by Hteppl
